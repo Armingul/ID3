@@ -1,0 +1,17 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "description": "ID3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciitree": "^1.0.2",
+    "bluebird": "^3.5.1",
+    "tree-node": "^0.2.3",
+    "underscore": "^1.8.3"
+  }
+}
